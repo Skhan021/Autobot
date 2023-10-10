@@ -202,8 +202,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/+QgSl55NlTiI0NDhl">ᴜᴘᴅᴀᴛᴇ</a>
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href="https://t.me/WWWMoviesLink">ꜱᴜᴘᴘᴏʀᴛ ⚡️</a>
+▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/Anime_Hindi_Series">ᴜᴘᴅᴀᴛᴇ</a>
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href="https://t.me/Hindi_Dubbed_Anime_Request_Group">ꜱᴜᴘᴘᴏʀᴛ ⚡️</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
